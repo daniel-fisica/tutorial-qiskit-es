@@ -1,2 +1,2 @@
 # tutorial-qiskit-es
-Esto es un tutorial rápido y conciso del uso de qiskit.  
+Tutorial práctico de computación cuántica usando Qiskit, escrito completamente en español. Dirigido a personas con conocimientos básicos de programación que quieran adentrarse en el mundo de la computación cuántica.
